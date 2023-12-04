@@ -26,10 +26,11 @@ unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 	}
 	return (x);
 }
-
+/*
 int	main()
 {
-	char src[] = "World!";
-	char dest[] = "Hello ";
+	char src[] = "Test! La";
+	char dest[] = "Test";
 	printf("%d | %s", ft_strlcpy(dest, src, 10), dest);
 }
+*/

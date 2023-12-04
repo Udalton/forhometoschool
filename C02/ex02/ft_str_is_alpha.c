@@ -19,9 +19,11 @@ int	ft_str_is_alpha(char *str)
 	}	
 	return (1);
 }
+/*
 int	main()
 {
-	printf("%d", ft_str_is_alpha("abcdefghijkl"));
-	printf("\n%d", ft_str_is_alpha("abc1defghijkl"));
-	printf("\n%d", ft_str_is_alpha("-_134556efghij67"));
+	printf("%d", ft_str_is_alpha("abcdefghijklmnop"));
+	printf("\n%d", ft_str_is_alpha("abc1defg2hi3jkl"));
+	printf("\n%d\n", ft_str_is_alpha("-_134556efghij67"));
 }
+*/

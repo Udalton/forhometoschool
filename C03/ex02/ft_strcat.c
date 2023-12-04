@@ -20,10 +20,10 @@ char	*ft_strcat(char *dest, char *src)
 	dest[i] = '\0';
 	return (dest);
 }
-
+/*
 int	main()
 {
-	char src[] = "Benguerir";
-	char dest[] = "1337 ";
+	char src[] = "mkumba";
+	char dest[] = "7965 ";
 	printf("%s", ft_strcat(dest, src));
-}
+}*/

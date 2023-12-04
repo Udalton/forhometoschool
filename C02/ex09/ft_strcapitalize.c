@@ -38,11 +38,12 @@ char	*ft_strcapitalize(char *str)
 	}
 	return (str);
 }
-
+/*
 int	main()
 {
-	char str[] = "salut, comment tu vas ? 42mots quarante-deux; cinquante+et+un";
-	char str1[] = "diujndfvon,odficj,dc dsfovij?kl43lo+dd-sdk%cdj*dc$sdc";
+	char	str[] = "str... inHFHFHFHHFFHenglish, with? +and-;hahahahah";
+	char	str1[] = "string,in,english,lvl2,1354215";
+
 	printf("%s", ft_strcapitalize(str));
-	printf("\n%s", ft_strcapitalize(str1));
-}
+	printf("\n%s\n", ft_strcapitalize(str1));
+}*/

@@ -20,10 +20,10 @@ char	*ft_strstr(char *str, char *to_find)
 	}
 	return (0);
 }
-
+/*
 int	main()
 {
-	char str[] = "42 1337 Network 2021 piscine Benguerir Khouribga";
-	char find[] = "piscine";
-	printf("%s", ft_strstr(str, find));
-}
+	char str[] = "I have some str with many words and we need to fine once of them for read start";
+	char find[] = "words";
+	printf("%s\n", ft_strstr(str, find));
+}*/

@@ -15,10 +15,11 @@ int	ft_str_is_uppercase(char *str)
 	}
 	return (1);
 }
-
+/*
 int	main()
 {
        printf("%d", ft_str_is_uppercase("ABCDEFGH"));
        printf("\n%d", ft_str_is_uppercase("ABCDEFGHaI"));
-       printf("\n%d", ft_str_is_uppercase("-_134556ABCDEFGaH67"));
+       printf("\n%d\n", ft_str_is_uppercase("-_134556ABCDEFGaH67"));
 }
+*/

@@ -11,11 +11,12 @@ int	ft_strcmp(char *s1, char *s2)
 	}
 	return (s1[i] - s2[i]);
 }
-
+/*
 int	main()
 {
-	printf("%d", ft_strcmp("Hello", "Hello1"));
-	printf("\n%d", ft_strcmp("Hello", "He"));
-	printf("\n%d", ft_strcmp("He", "Hello"));
-	printf("\n%d", ft_strcmp("Hello", "Hello"));
+	printf("%d", ft_strcmp("Abuba", "Abuba1"));
+	printf("\n%d", ft_strcmp("Abuba", "Ab"));
+	printf("\n%d", ft_strcmp("Ab", "Abuba"));
+	printf("\n%d", ft_strcmp("ABUshow", "ABUshow"));
 }
+*/

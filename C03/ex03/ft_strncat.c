@@ -19,10 +19,11 @@ char	*ft_strncat(char *dest, char *src, unsigned int nb)
 	dest[i + j] = '\0';
 	return (dest);
 }
-
+/*
 int	main()
 {
-	char src[] = "Network";
-	char dest[] = "42 ";
+	char src[] = "yothtar";
+	char dest[] = "55 ";
 	printf("%s", ft_strncat(dest, src, 7));
 }
+*/

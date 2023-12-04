@@ -15,9 +15,10 @@ char	*ft_strlowcase(char *str)
 	}
 	return (str);
 }
-
+/*
 int	main()
 {
 	char str[] = "ABCDEFGH";
 	printf("%s", ft_strlowcase(str));
 }
+*/

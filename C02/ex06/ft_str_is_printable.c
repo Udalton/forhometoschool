@@ -15,9 +15,10 @@ int	ft_str_is_printable(char *str)
 	}
 	return (1);
 }
-
+/*
 int	main()
 {
 	printf("%d", ft_str_is_printable("ABDELKFSCO?I340990%"));
-	printf("\n%d", ft_str_is_printable("\n\t\v\f"));
+	printf("\n%d\n", ft_str_is_printable("\n\t\v\f"));
 }
+*/
